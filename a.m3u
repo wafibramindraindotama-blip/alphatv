@@ -523,4 +523,11 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/in
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 
+
+#EXTM3U
+#PLAYLIST:Islam
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://i.imgur.com/5ohs2WT.png" group-title="Islam",Al Quran Al Kareem (Mecca), Quran
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+
+
 #EXTM3U billed-msg="MOHON UNTUK TIDAK MENAYANGKAN ULANG SIARAN TV!!!"
