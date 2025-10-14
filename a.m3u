@@ -2,9 +2,9 @@
 
 
 # Live TV with STREAMO domain Valid untill : 2025-10-28 00:00:00 WIB (GMT+7)
-# Last playlist update : September 30, 2025 10:50:31 WIB (GMT+7)
+# Last playlist update : October 08, 2025 06:55:44 WIB (GMT+7)
 # Current Session Key: f16396f5-aff0-4f56-86af-ebb7cd9d73ef
-# Signed at September 30, 2025 10:51:12 by https://f16396f5-aff0-4f56-86af-ebb7cd9d73ef.streamo.cfd/
+# Signed at October 08, 2025 07:00:12 by https://f16396f5-aff0-4f56-86af-ebb7cd9d73ef.streamo.cfd/
 # This playlist is free to use, you can use it for personal use only (do not rebroadcast or sell the playlist).
 # This playlist has passed the Firewall security test in the local network and WAF with rating 85.3 from 100.
 # Created with love by justemonn.
@@ -13,14 +13,7 @@
 # LOCAL SECTION
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 #EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/indosiar.png",INDOSIAR
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://fta-idn.streamo.cfd/live/eds/IndosiarHD/mpd/IndosiarHD.mpd?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mdGEtaWRuLnN0cmVhbW8uY2ZkL2xpdmUvZWRzL0luZG9zaWFySEQvbXBkL0luZG9zaWFySEQubXBkIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzYxNTg2MTMwfX19XX0_&Signature=c5ApLKWX~QW7rFunRwlOs8VTmSsYHE0H0-4YqT2WnnKK-Pv2WFrfkUynI86DiLzuiPAaw8wvD0qQH-nmY1DbMaNM6BYw3g5IoaYFgtrrliPf6eL72ig5pdOlgPKIxEjYzoSjExwnoaEngoZ4VKIhYxPlLmZghpNawjAMUI17NYBLgs1B2lhR5PArZCwBXuNoR0E9XTgSEVtrSz~fjooSUzwyTPKndjrH2qE8uh00Uelp~qejlTT~1TW-wl58sQy2BjYc-Gn94PKaDlZLZI1250wGcdOGBfT6vlyB47oDxj2z6xzoYuPtkZX97eMATTQrAyMOOeEBQH5wvD2lgE4hDQ__&Key-Pair-Id=K1UCT5P1FBP0SK
-
-
-#EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/indosiar.png",INDOSIAR (VIDIO)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -33,9 +26,6 @@ https://fta-idn.streamo.cfd/live/eds/IndosiarHD/mpd/IndosiarHD.mpd?Policy=eyJTdG
 https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
 
-#EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/indosiar.png",INDOSIAR Digital
-https://lep.semar.my.id/channels?id=idigital.m3u8&auth=idgtlsemar25
-
 
 #EXTINF:-1 tvg-id="TransTV.IPTV" tvg-name="TransTV.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/transtv.png",TRANS TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -45,6 +35,7 @@ https://lep.semar.my.id/channels?id=idigital.m3u8&auth=idgtlsemar25
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://fta4-cdn.streamo.cfd/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mdGE0LWNkbi5zdHJlYW1vLmNmZC9saXZlL21hc3Rlci80LzQwMjhjNjg1NjUxZDdiY2MwMTY1MWYwYjZkMjEwMDk2L21hbmlmZXN0Lm1wZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2MTY2MTAyOH19fV19&Signature=ljTeA6N7S1xuDcclZkX-t4xKt53YEnejVMOA321LMg6ds6J37JnmZJJYyHwS9GeasBJQYxBxUswZRhbbvuokDG3ctzOz03MN5SMvrw3l2ekGD97guD5kuhkc5dr4yWISwRaJcmIWprEWxTgOXo-LN7nyeJ9uZ5U~biJLxuzDsIhdBgWGntR4jc3LYHAuG-X87fkv0Olx5qpWH7umO5xbYW2mi0A069PGaQwrxNZOElguL8sULBQjVWdR5RgInDt03UcEzYKkP~Nx1zqpMuFGlgL3MeY7OX0UTfe82sWqpZFv4ce844PQw41jBSMuxD2Ivqwk0ouk~00yIKBGTJGbfA__&Key-Pair-Id=K1UCT5P1FBP0SK
+
 
 
 #EXTINF:-1 tvg-id="Trans7.IPTV" tvg-name="Trans7.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/trans7.png",TRANS 7
@@ -57,6 +48,7 @@ https://fta4-cdn.streamo.cfd/live/master/4/4028c685651d7bcc01651f0b6d210096/mani
 https://fta4-cdn.streamo.cfd/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mdGE0LWNkbi5zdHJlYW1vLmNmZC9saXZlL21hc3Rlci80LzQwMjhjNjg1NjUxZDdiY2MwMTY1MWYwZGIwYmYwMDk3L21hbmlmZXN0Lm1wZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2MTY1OTU2OX19fV19&Signature=O1y-aCof4aBSiZf5d822gW0~uAP0pL1QdHv4FDms0lUjvM3-bGqwA1BGC0KqX2M-Qj5ydDC0HKrUU2D-2Y0Jy0-rS643gHWV49RrzpAgK~EZhXbGoFPnp6WH92aKLX1RbqsllL6iCtDlewKq4N1~D-5CHDrG2LqaxdoDFr17HyGQINsMsvkKNms1YL7IZwMEElSNLHOWpPeF7MJuo~Vcc96YGs9GpRYyBLpWOo6hMYfSEXpHP7H5MLLH~2jAbz7KwehmQdLPCU7JCmsFtfBJADQvN1WtmEnG2unPQaLqVVCQdindtQJ331YjLlx1MbUCkiPhPrjLO1BxfhjIU-6iPQ__&Key-Pair-Id=K1UCT5P1FBP0SK
 
 
+
 #EXTINF:-1 tvg-id="MDTV.IPTV" tvg-name="MDTV.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/mdtv.png",MDTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -67,11 +59,13 @@ https://fta4-cdn.streamo.cfd/live/master/4/4028c685651d7bcc01651f0db0bf0097/mani
 https://fta4-cdn.streamo.cfd/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mdGE0LWNkbi5zdHJlYW1vLmNmZC9saXZlL21hc3Rlci8yLzQwMjhjNjg1NzU4YmNmZmYwMTc3NmJjNzYyNDMwN2FiL21hbmlmZXN0Lm1wZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2MTcxMTMxMH19fV19&Signature=VGp7yjsBO4ZfhZYemJU3GQwVDie8ytlkphH0sUmqD4VC321wBEZvpcIjYchGWSKj3KCfkakKM8B22aTDQml-NYZft3B09Ce1ZwYojmUHEtF9SmkRD6U9psn~fHy15SoNI-CHw-ksjSR2~yYuhRrvF4umZR3~A1kqjWqj8TrpKQ1KojQ32y~wz3QcuqE4Y6rTZG8YYEh6ZWTdkUnCwg9Kyevmr7y1HjLBlZvNrUXd5iSK3aZYptwri1jzdBbI3ndlpV6oM7O8ApZ9jr3ZRkW-g4DJu9cV93Wdc8aaV~HleHPoTzNkp606OwemowCZqXo2d~FcVXXRcBiclJIFW0nLlA__&Key-Pair-Id=K1UCT5P1FBP0SK
 
 
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 #EXTINF:-1 tvg-id="SCTV.IPTV" tvg-name="SCTV.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/sctv.png",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://fta-idn.streamo.cfd/live/eds/SCTVHD/mpd/SCTVHD.mpd?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mdGEtaWRuLnN0cmVhbW8uY2ZkL2xpdmUvZWRzL1NDVFZIRC9tcGQvU0NUVkhELm1wZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2MTU4NjcyOX19fV19&Signature=MvWB8DCpIvP108nRFw89W0aodO-bYAHqjpFdWfVZ03aBXE0xuFFTfwCoAW~ad3mjruyA3nMxtDmQhWPy-lCFuTqg1wnLaRjlpmdV2T0jUdh5DLSpL~k0Ru1~TULiBnntbU0VCq5jQ-~knz~2U7hkcMSfehNKsMwBwuzY9Lmjs-IYi-ptLw2XcpCVIfVW6y9Qi-KEDG3s5QHkLu6253XiMae7VTRCHwZzWFmerV5Bg9MOlG6liq3d36whudaFhI9rAXx5sRkdXzwM07D9tkzLQyW6nCaujSzW6~-LkMBY9zqCo1C~IPPyUfNBar~JwUVLryctT1MtR7iWU58yiZXhjw__&Key-Pair-Id=K1UCT5P1FBP0SK
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -81,11 +75,16 @@ https://fta-idn.streamo.cfd/live/eds/SCTVHD/mpd/SCTVHD.mpd?Policy=eyJTdGF0ZW1lbn
 https://fta-idn.streamo.cfd/live/eds/ANTV/mpd/ANTV.mpd?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mdGEtaWRuLnN0cmVhbW8uY2ZkL2xpdmUvZWRzL0FOVFYvbXBkL0FOVFYubXBkIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzYxNzM3Njk0fX19XX0_&Signature=cdqHXMJEYkIrvP4BaMVti18Ns2-atrKXdd~nKO64BCCel5s86wKlIn0BhX8puCGe~sCYcm1PoKtT2HvmrBSojKsMc~3UVS0DpYKumyjUR4TzC0lMsmRyG7K8kOgq401OECZUoYPjnxbx9Zq8Q3967uGJXUFsdibaa7e6XEXWycH8A5Y~qZr7Fnw8NWkwdiQxSvLcuPDuRJj~l7LgWp~GDhEpVw2vyorepc5hLfn3XwfY0fy8mFPtLbgMb1cM669op33KnvCRKnQF3hCa4Pnok8OMhghxagfVKR8OpO3dUDYPRs4IZmKPvxOJoNy4Zj1vQCeMGaVpIdUJkTP6uRZpUA__&Key-Pair-Id=K1UCT5P1FBP0SK
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 #EXTINF:-1 tvg-id="RCTI.IPTV" tvg-name="RCTI.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/RCTI.png",RCTI
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+https://securecontent.streamo.cfd/live/eds/RCTIHD/hls/RCTIHD.m3u8
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -96,6 +95,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -103,10 +103,12 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
 
+
 #EXTVLCOPT:http-referrer=http://dens.tv/
 #EXTINF:-1 tvg-id="Magna.IPTV" tvg-name="Magna.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/magna.png",Magna TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -118,6 +120,7 @@ https://fta-idn.streamo.cfd/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd?Policy=ey
 
 #EXTINF:-1 tvg-id="Moji.IPTV" tvg-name="Moji.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/moji.png",Moji Digital (UNSAFE)
 http://103.66.62.83:8000/play/a065/index.m3u8
+
 
 
 #EXTVLCOPT:http-referrer=http://dens.tv/
@@ -133,6 +136,17 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=li
 https://gooo.blog/opix/genx.m3u8?id=mentaritv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
 
 
+
+#EXTINF:-1 tvg-id="TVRI.IPTV" tvg-name="TVRI.IPTV" group-title="Lokal" tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvri.png",TVRI Nasional
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+
+
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/vtv.png?raw=true", VTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://flv.intechmedia.net/live/ch107.m3u8
 
 
 
@@ -239,10 +253,15 @@ https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 https://fta-idn.streamo.cfd/live/eds/AnimaxHD/mpd/AnimaxHD.mpd?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mdGEtaWRuLnN0cmVhbW8uY2ZkL2xpdmUvZWRzL0FuaW1heEhEL21wZC9BbmltYXhIRC5tcGQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjE1ODcxNTF9fX1dfQ__&Signature=V0RzOlepiaVf4OfJuvtabjiVxxj0YED7O3WLnbfmzgJlVNhm4RuLEyqzKcdeqB-LoKLlm5lCQsXZPzoir5QQYCqr-emixLpbYOYGUje4y4U16sE8sZHKXAPWJECpjaA4A2RQfIvnneL4stZU2hcvbbtKcdCUvu5m8EOrxIbrBB7mYLJWwNDV7ezSb3eeNIAawKMdkq5DnQYkBkNWNfHZ8tJzHsgHRHemwhpIxh1qrvZwkRYbRzAN8PuDwtMqgHgAY78YEYeT2fwHnQ94YAcgdwsaLmVHILiPpT4oMC7c1r-Jf5z7-8RAkR~pB-LL4hneX7lTzx8wFMANKLwY8ZKOiA__&Key-Pair-Id=K1UCT5P1FBP0SK
 
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
 #EXTINF:-1 tvg-id="Aniplus" tvg-name="Aniplus" group-title="Entertainment" tvg-logo="https://cdn.streamo.web.id/live/images/aniplus.png",Aniplus
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite&chname=ANIPLUS
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -438,8 +457,13 @@ https://fta4-cdn.streamo.cfd/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/mani
 
 
 
-
 ## SPORT SECTION
+
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvri.png" group-title="Sports",TVRI Sport
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 
 
@@ -554,37 +578,35 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="SPOTV1" tvg-name="SPOTV1" group-title="Sports" tvg-logo="https://iptvsystem.my.id/img/spotv.png",SPOTV 1
-https://fta-idn.streamo.cfd/live/eds/SPOTVHD/mpd/SPOTVHD.mpd?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mdGEtaWRuLnN0cmVhbW8uY2ZkL2xpdmUvZWRzL1NQT1RWSEQvbXBkL1NQT1RWSEQubXBkIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzYxNzM2NTQ3fX19XX0_&Signature=bi~X1voh1qmXrvnOa8lLBD3BhAvCkrpSeP8MLNMIr75GfPzmlbhI78iqSDJqbMD910H0Ck3Hf6tSPImuP7L64UrSvCGp1lQyeuijxXMdT1D1AEoOrDM0RzAChE1C7qJ2neod2NZn5Yd4GshaoNsKzucEs~0xqkE60E~iFj2-xlRwHI6go43Vg2rHK1tG7giZsujmKosf05PXIZdP1fXpDBx1XCAxcoLfo7qnytCqV6NCwuEnTLTz5R6QAJ4WQxkx27imW-YCg0oVt2xZ1g~yiL2vhHLQgmp~5eKPz8sVZPe60Nx95eUDOICBrsK4DMTFvnKbPElTx2prpH6ZGoknwA__&Key-Pair-Id=K1UCT5P1FBP0SK
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" group-title="Sports" tvg-logo="https://iptvsystem.my.id/img/spotv.png",SPOTV 2
-https://fta-idn.streamo.cfd/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mdGEtaWRuLnN0cmVhbW8uY2ZkL2xpdmUvZWRzL1NQT1RWMkhEL21wZC9TUE9UVjJIRC5tcGQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjE3MzY0Njh9fX1dfQ__&Signature=aN1F1vwci5cTiNEMpfe00epr0XkeKjNWIE~TJUXqFl~byEcrCJ-WE0SboH6xDPsgzjLQ-gZRnqv7ZYsRlS1zNxssH-0tegUSVnxoS8RpEG69V-OBJcaE80MhD-4jujUSI~RBs6CN0lwUr-~Mrlj3JghXsNwkQwigrePoBZhYg-HH5onZyFa7nZmZsAdYzYYa6CmIlxRqV7ZHumVu6Sqit~hwsGXw8VsDZc5vj-HZs8Ury7HZXmEBZKb9VrS2HM1AGXeQ~jODhZK-XD-nzeeERssnoxn1V232lKnuYovCE2Dyu-vLs0C9JwGE7WtZxtY06PpKtZbHL8uSg-hVyjSpCA__&Key-Pair-Id=K1UCT5P1FBP0SK
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 
 
 #EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/nbatv.jpg?raw=true" group-title="Sports",NBA League Pass
+https://live.streamo.cfd/jakarta/hls/nbatv.m3u8
+
+
+
+#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBATV.png" group-title="SPORTS",NBA TV (UNSAFE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
-http://mains.services/live/bshorty/Zv5le07a0J/4b34c445-df7c-401d-840c-52ce4bc5e1ed.ts
-
-
-
-#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/nbatv.jpg?raw=true" group-title="Sports",NBA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/vidreq.php?id=6717&type=drm
-https://vidd.semar.my.id/vidreq.php?id=6717&type=dash
+http://filex.tv:8080//live/Home329/Sohailhome/501267.ts
 
 
 
@@ -592,8 +614,8 @@ https://vidd.semar.my.id/vidreq.php?id=6717&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6685&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6685&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/vidreq.php?id=6685&type=drm
+https://vidd.semar.my.id/vidreq.php?id=6685&type=dash
 
 
 
@@ -601,8 +623,8 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6685&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6686&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/vidreq.php?id=6686&type=drm
+https://vidd.semar.my.id/vidreq.php?id=6686&type=dash
 
 
 
@@ -684,6 +706,34 @@ https://a203aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/lsdasbvglv/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5ccdccf0818d3d9ff6c26076fc1153ac:f8d7fda7e3f11a29b346a37e98f749d4
 https://a204aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+
+
+
+## Musics Section
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="MusicTV.id" tvg-name="Music TV" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/music/musictv.jpg?raw=true" group-title="MUSIC",MUSIC TV
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
+
+
+
+## EVENT SECTION
+
+## R+ LIVE TIDAK ADA MASA KEDALUARSA
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#EXTINF:-1 group-title="Event" tvg-logo="https://www.visionplus.id/images/repository/817/138817-LOGO-m.png",R+ LIVE
+https://cdnestlive.streamo.cfd/live/eds/RCTIPlus/hls/RCTIPlus.m3u8
+
+
 
 
 
