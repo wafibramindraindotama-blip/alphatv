@@ -296,7 +296,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/ind
 #KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="ONE.id" tvg-name="ONE" tvg-logo="https://cdn.streamo.cfd/live/images/ONE.png" group-title="Entertainment", ONE
-https://fta-idn.streamo.cfd/live/eds/ONEHD/mpd/ONEHD.mpd?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mdGEtaWRuLnN0cmVhbW8uY2ZkL2xpdmUvZWRzL09ORUhEL21wZC9PTkVIRC5tcGQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjE2NjA4Nzd9fX1dfQ__&Signature=OvhdVVbOI~teroBDL~6TVYAnBcVmqCSPohUzj-B1SuwLHPoEgBAKD1guTWT~jI5KwD8wJF2g6XdLzc2YblWv1YaWOjVmnoVBYaPNJZgyEtU~JtwHVgL9QlRU0suGnZU~EZGf5vVVmFxsMXm3QzCuAoao2GjA8U7KtLRzdX3ERkjrlFH6XEbgKeYyGCyHYjVuPHUK0q7uza2WJGq4VPrWyC0epLXFPMdVypGNdP1NjMUXDuQzGU6eV3B6MOoNN9pA3isjGssobHV2LMz1NtORy~kNSi~Mq45elDDQLrwj6WaDdtUudLIOQS8GDHauAyqfpb7gCfEzNiC5KMxzYbTn6g__&Key-Pair-Id=K1UCT5P1FBP0SK
+https://fta-idn.streamo.cfd/live/eds/ONEHD/mpd/ONEHD.mpd
 
 
 #EXTINF:-1 tvg-id="TvN" tvg-name="TvN" group-title="Entertainment" tvg-logo="https://iptvsystem.my.id/img/tvn.png",tvN
@@ -306,14 +306,14 @@ https://fta-idn.streamo.cfd/live/eds/ONEHD/mpd/ONEHD.mpd?Policy=eyJTdGF0ZW1lbnQi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://fta4-cdn.streamo.cfd/live/master/5/4028c6857e04fca5017e9052a68542f9/manifest.mpd?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mdGE0LWNkbi5zdHJlYW1vLmNmZC9saXZlL21hc3Rlci81LzQwMjhjNjg1N2UwNGZjYTUwMTdlOTA1MmE2ODU0MmY5L21hbmlmZXN0Lm1wZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2MTY2MDg0N319fV19&Signature=r5fza7O1ThC~tUglbsb6pa6VkvgjJEwI7061IjSdw-a9hZLb05RqqOYyujxHdDNNJZWnoEsVAz3R4M13dJMN48pr3pb1itUeIljAdvPAGxAUrxsN2ht4WKvwKkj2QsTRPF6~Vsi7ntrV91bCsHcnCA2SW7~zloLDSbaoWsHa0BS9MpQw0dLdazj9gmYOksYFyA~DByfZvus~G3GMcT6SojXKBG5obXKO-fdibwoMq0NyRh5c69MgkQc1VqmF1e2rKzVqwnYCGK~vKQiw6tOuPvAA3jMRg-towkHAkfCvKrdam0eXNfZgFlhHkYRF8gmkpXgB9Eo-rq7fCKyMfSKyRQ__&Key-Pair-Id=K1UCT5P1FBP0SK
+https://fta4-cdn.streamo.cfd/live/master/5/4028c6857e04fca5017e9052a68542f9/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
 #EXTINF:-1 tvg-id="TLCSoutheastAsia.sg" tvg-name="TLC Southeast Asia" tvg-logo="https://images.indihometv.com/images/channels/image_ch_tlc.png" group-title="Entertainment",TLC
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://fta-idn.streamo.cfd/live/eds/TLCHD/mpd/TLCHD.mpd?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mdGEtaWRuLnN0cmVhbW8uY2ZkL2xpdmUvZWRzL1RMQ0hEL21wZC9UTENIRC5tcGQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjMwMTYyMjl9fX1dfQ__&Signature=gfsdw-0UOUQH4tdBZyExATvUE~nJpL2WMKDcbG7N9Bvuuc4QE23NJdGaT3s8VZBKkDDlem42sgdw6z0FIWmzCVsp37ZfDIiiTm6~cV3NXS6am9BYKofLBICwHwRhe9K0zqcnDfgnYtlbveAh-tBlRJ3I56hmatn0uZqrgJjudLP2lyFCDNFGT3cfqWVen7D2X-JJNtWZI0r4iln47NGLe2WenwSpi7dp~sMTa5DoRNp8xgp7zSCn5KY0ssgWJxoIwwXx-I7r56nYNTT6eGYrEnQ9iMOLnUolJhyUVJ-heZFIrWUy7SahRbQQNFbv03xzkh1oAauGlNadT3a16Scivg__&Key-Pair-Id=K1UCT5P1FBP0SK
+https://fta-idn.streamo.cfd/live/eds/TLCHD/mpd/TLCHD.mpd
 
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_warnertv.png" group-title="Entertainment",Warner TV
@@ -326,7 +326,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_hgtv.png" group-title="Entertainment",HGTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://fta-idn.streamo.cfd/live/eds/HGTVHD/mpd/HGTVHD.mpd?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mdGEtaWRuLnN0cmVhbW8uY2ZkL2xpdmUvZWRzL0hHVFZIRC9tcGQvSEdUVkhELm1wZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2MzAxNjQ5NH19fV19&Signature=P5rum6cntbn3icTT7~niollF104zSEm3ScyuUdn50ZpyEuR0miDoUF1n6amnHtUMr6g599aLwRVnjdtitJ-amyzCiKu6im~EitMW47vV6doAURhKXuUrBxlEyCLQFskW~hTOU8f6DxbnXEbD~KgMf8oNqzWIviySyzdrEoHGdLDH~wIVgNbLAmtQfMQWKsZzX9g9rznyZ6kn8u~0z5H~C3V6dJwXWOuRT0g-lUFaOdnh4Ph7N1wuSjnIMGlhdWR0jJRk4vLpLaxUC3v~dGAhicijZcjhgyZS1mdWy5egswJyMVGEFCygNdVtgj2hsQwFyqdGqRI5UXWwKtJjG2jRGA__&Key-Pair-Id=K1UCT5P1FBP0SK
+https://fta-idn.streamo.cfd/live/eds/HGTVHD/mpd/HGTVHD.mpd
 
 
 
@@ -340,7 +340,7 @@ https://fta-idn.streamo.cfd/live/eds/HGTVHD/mpd/HGTVHD.mpd?Policy=eyJTdGF0ZW1lbn
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c 
-https://fta-idn.streamo.cfd/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mdGEtaWRuLnN0cmVhbW8uY2ZkL2xpdmUvZWRzL0hpdHNNb3ZpZXNIRC9tcGQvSGl0c01vdmllc0hELm1wZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2MTU4NzM3M319fV19&Signature=gNyKy9pWOsNld9gCyYS0oj7Xcj9rucKTptA7U-ukmM9DUAnkjauPM7zd8cpKRKw~q45AZYCOmP6GfGV~SaVOgpTgP3ssvXbsR1YpTQmLI3rtrgfNzYrzGVtNpv2syz0~bHPPgDbYZKYAyu95PAe8QrxZdc-CgkCLmZjfGJ~478yQVozr6ppehHaP5fqPNTmdwtvNrDJqoIS4yeVDkza2nw~Vn0M8VXSqf~~mA90tuMMmF9h2woW0LneZBdD7hMrRHVTs-~mI7vXUufz0hQ29EmaUbmqzQ4wE3OL3MGWwMmx6YjLr7qb29D8njqt-u-TXdAZC7jvfbKjyDgRkkc6EYA__&Key-Pair-Id=K1UCT5P1FBP0SK
+https://fta-idn.streamo.cfd/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
 
 
 
@@ -372,7 +372,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&userid=l
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://fta4-cdn.streamo.cfd/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mdGE0LWNkbi5zdHJlYW1vLmNmZC9saXZlL21hc3Rlci8zLzQwMjhjNjg1NmI2MDg4YzMwMTZiODdkNjRiOTcwYjUzL21hbmlmZXN0Lm1wZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2MTY0MDE4NH19fV19&Signature=M2-ZlhSZMR-uK9YTmqpAGGrb1oOjo8~a7idKwCGxKLxtgcP0cP7z8ySEM0sFQJVfW7uOWY15EKwSnecILWrgJpdjZec42SYYGVKhmoc~tVA5gfy75uJBQQOYU-XzPLmKLrgW6MSx6C3wYaBfOGOcNozCDJurMVUA5m-X2kF1nEzCaiKxBWReoZQTT7DhiHcSGKKrTj-7O8F3EtOGlhTU2UZ2HX33g74Z9s9We~Gja3vh21yxAR~pplz~MnfFNFF~9uBI8nWkRMcow4JAe1y5UbDO8kl-T~OONA8m-9P-~402ht4R0G9CoPLDiaeWN8~TNZMwQX-dTO33RaRYp7lqaQ__&Key-Pair-Id=K1UCT5P1FBP0SK
+https://fta4-cdn.streamo.cfd/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 
 
@@ -381,7 +381,7 @@ https://fta4-cdn.streamo.cfd/live/master/3/4028c6856b6088c3016b87d64b970b53/mani
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://fta4-cdn.streamo.cfd/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mdGE0LWNkbi5zdHJlYW1vLmNmZC9saXZlL21hc3Rlci80LzQwMjhjNjg1NmMzZGIyY2MwMTZkMDU0ZmJmNjczNzlmL21hbmlmZXN0Lm1wZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2MTY0MDIyMH19fV19&Signature=UJtPVq43P8REsgg0K3JoThmBDe7POOdutX-KifKd9xgMlWNgYAY2KOhOI7ozrwhi7Mtq4pREUXTVvxOuDq7jEvTbdJRDU5aVHcZZc0Ithk6VoJlQwthydazN0xqIGIrr5p94QbDW7EsIZN2qBOQdISiNJMCt-3Bnem6s6ccTNRrX1gMayYcdAFT4AR1ugAywKlAUePHUkekUJC4jV0CX39NuF4DgauhO9WKtmnBkXNapc1Jh6B1bKisKF1vD3g8zUGqTrjwU2WnpKfvDvcA4wMP5aAljHa-n28zTldRHR5YTKN54j5p7TUJklmImJtGoeIOxSiZ6cNG-9zFbvxbb0w__&Key-Pair-Id=K1UCT5P1FBP0SK
+https://fta4-cdn.streamo.cfd/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 
 
@@ -390,7 +390,7 @@ https://fta4-cdn.streamo.cfd/live/master/4/4028c6856c3db2cc016d054fbf67379f/mani
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://fta4-cdn.streamo.cfd/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mdGE0LWNkbi5zdHJlYW1vLmNmZC9saXZlL21hc3Rlci8zLzQwMjhjNjg1NmMzZGIyY2MwMTZkMDU1MmUwY2EzN2EyL21hbmlmZXN0Lm1wZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2MTY0MDI2MX19fV19&Signature=M2kOgIQvcvLA7sjZlR8Ydvp7aobMRphLGLmtDJFTmwLrXxHD9rfU~~DPhbM5iaj39phoRbhS2S~F42lMWSoW-WpBjNsZrwuIwjttPez2a3Vt3EMvOTflkEYDzudlDb7ETQuA80b1hQE~NOe-w1RQghJ1YtVKRqF03zeJc5T2b5tTSVkUV~MVed5WK591nbZFbdATalwQ01UhARs7zs8I4FYb2GPuK3ZBEVWPFORwsmDMKMEB~hHI01HuoKDpxaNwUFMR2eyO6QT42ak~qHdh75zLpYq0n0RWhiTIB46UPcOa4bQfZL8LviKnis~hStXnik6RdHte~GbGnq3DeaY73g__&Key-Pair-Id=K1UCT5P1FBP0SK
+https://fta4-cdn.streamo.cfd/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 
 
@@ -399,7 +399,7 @@ https://fta4-cdn.streamo.cfd/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/mani
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://fta4-cdn.streamo.cfd/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mdGE0LWNkbi5zdHJlYW1vLmNmZC9saXZlL21hc3Rlci80LzQwMjhjNjg1NmMzZGIyY2MwMTZkMDU1OTI3ZmUzN2E0L21hbmlmZXN0Lm1wZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2MTY0MDMwNn19fV19&Signature=WVTRu2IGhDo7Z-BdLrwGvT8HXbpeNYnjf-uStIbhW1X6jWqj-U0I0dlGtMmQg0mgFSueJ754KfEOuuXQTOoRVafAigRPqizLORh4~wDKT9Fm2saphwxbgQHoqbgS~~1lpcif66du4kp1YgFieMlfCfOgkYjjr09-MczCsNWnEVohNTaseTF6kEOeyscEidQ2DqUUF1G912DsAR~O8CDGkys2PXwIY8gsqK3TeGuTKHX8IHNUI0x0iJZEotIrqofH5dntz1vOmdEA5rySoL3qyRsdASsHqt38cGt6s5264~9U-2GQFvdphyhYABI6hCVzhWdhyFybz7fykpLOb50g6w__&Key-Pair-Id=K1UCT5P1FBP0SK
+https://fta4-cdn.streamo.cfd/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 
 
@@ -408,7 +408,7 @@ https://fta4-cdn.streamo.cfd/live/master/4/4028c6856c3db2cc016d055927fe37a4/mani
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://fta4-cdn.streamo.cfd/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mdGE0LWNkbi5zdHJlYW1vLmNmZC9saXZlL21hc3Rlci8xLzQwMjhjNjg1NmMzZGIyY2MwMTZjZGJmYzRhMTkzNGJmL21hbmlmZXN0Lm1wZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2MTY0MDM1MX19fV19&Signature=gTuIh-v6uA4-ZKuICkf8iTvOKgRTuyPgIOqKMOXLiBNv6L~8EtteZFJynPQBhe~BTK5~c19SsjrifM2A9yiArbJqCaDBHnVRrKM-7F-DYjR5rYEXlD0Ce5Ueq5vIRHdK0uOECyxQAfNVTnm5gm-pqp98hOx3ewZWMCU4l-rMW5CtWcdmgBqmqU5V1H33q6br0tw94WhrbrHJY3JFpSFjQEw3s0yXHBndHA4iM5ZGdnzaL7aFr8X~EkvE0uUslpakVHJP62iZWougSMawRbcKWI0tAyi09-li4H8lmrL7yFPwtp9v3~Fi3nGTAJvhO29j7gZqGKful-w1QhEl0FZ6jg__&Key-Pair-Id=K1UCT5P1FBP0SK
+https://fta4-cdn.streamo.cfd/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -423,7 +423,25 @@ https://fta2-cdn-flr.visionplus.id/out/v1/3c619ecc120b46e999d1eaa627cc544f/index
 #KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="TvNMovies" tvg-name="TvNMovies" group-title="Movies" tvg-logo="https://iptvsystem.my.id/img/tvnmovies.png",TvN Movies
-https://fta-idn.streamo.cfd/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mdGEtaWRuLnN0cmVhbW8uY2ZkL2xpdmUvZWRzL1R2Tk1vdmllc0hEL21wZC9Udk5Nb3ZpZXNIRC5tcGQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjE3OTYxNzV9fX1dfQ__&Signature=MRX-xSPYqrqm7do-iexuFkuOWTFHe9G4mpn515TuzB8y5RZdg2BJJn~rxkXTvydRqyhkE0JdLEDWDMGzo6g8BGu-h2KzRivWsTmXsKgatYaDV2ytMQu0Rl93SlIuN6gXbmy7zWqNYrIJYbThmZ9Q0rfUTd5LXhe3USYZ~bzJGhBIr6Y3dFkUlwi8mtTD3XMRFzCcLPOsBewlQZe1RNY-T-TX0CRwggH8ezDwJASA~BZKW~FXD3yEc3YwZIkUYv9LWMDL1klQlcSi7HEkzI6HYk4VA6zJl0KVqDNULQvwwj97~KK2RO~IknARVYoCyADiT2I1RepHfBkXXpn03qGd9w__&Key-Pair-Id=K1UCT5P1FBP0SK
+https://fta-idn.streamo.cfd/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZui9S2_9rgixQEraSnsGKCdqPMha_Nu6eyA&s" group-title="Movies",GALAXY
+https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
+
+
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOyjV509yhn9IyegjVAV6w84Hk1N1JappX7g&s" group-title="Movies",GALAXY PREMIUM
+https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
 
 
 
@@ -465,7 +483,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/ind
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://fta4-cdn.streamo.cfd/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mdGE0LWNkbi5zdHJlYW1vLmNmZC9saXZlL21hc3Rlci80LzQwMjhjNjg1NmI4ZDIzOTAwMTZiOWMzZWU2YzIxZDdjL21hbmlmZXN0Lm1wZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2MTY2MDMyMn19fV19&Signature=EhBRsmCwNT2V~AqrxaV59vS98wc1eHsE7by6apTfyfZiyy3N5wowCkwyGUlIsROapcPZiIh6qcAeXC34wlEuciXCes1gXTW4CvEMD3d7GpduKvBmJCINd7oTdZH3mKKP8Duga8SP-AAPjVwO4Vmd9uWMS~UeDTqqxrF4roAwhjnTohZs2qaENM~Wlh5Q8fA3aW0FGBqHdfIX9P6FA70uPwAda4cEFMTTA4NswrEKHRMSNn0XyOyXeLhfPw7~JynDaCGPBUMBUlXZ~MVr3VKIaGaUwKZ-4ZMsGTvXHJuUX2IqXHRwbL0J-cDOu8KboHCtClNaIh727wJZH9~VgA0dpg__&Key-Pair-Id=K1UCT5P1FBP0SK
+https://fta4-cdn.streamo.cfd/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="DeiKids" tvg-name="DeiKids" group-title="Kids" tvg-logo="https://youtv.live/data/channel/dei-kids-tv_20230112175023.jpeg",Dei Kids
@@ -622,7 +640,7 @@ https://live.streamo.cfd/jakarta/hls/nbatv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=834ec3cbface4fe992e995a32d35f587:e0a97198d9f2dfcb0a0483cd4b04414b
-#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBATV.png" group-title="SPORTS",NBA TV (UNSAFE)
+#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBATV.png" group-title="SPORTS",NBA TV
 https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 
 
@@ -741,7 +759,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/ind
 
 ## EVENT SECTION
 
-## R+ LIVE TIDAK ADA MASA KEDALUARSA
+## R+ LIVE DISINI HANYA MENAYANGKAN ACARA RCTI PLUS PREMIERE, JANGAN MENAYANGKAN ULANG SIARAN TV
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
