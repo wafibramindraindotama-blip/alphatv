@@ -1,21 +1,16 @@
-#EXTM3U x-tvg-url="https://iptvsystem.my.id/epg" refresh="3600" name="STREAMO Basic" billed-msg="Playlist ini tidak dijual, hubungi tele @justemonn jika menemukannya" billed-till=1762179512 allow-cache="no" 
+#EXTM3U x-tvg-url="https://iptvsystem.my.id/epg" refresh="3600"
 
 
-## This playlist is free to use, you can use it for personal use only (do not rebroadcast or sell the playlist).
-## This playlist has passed the Firewall security test in the local network and WAF with rating 85.3 from 100.
-## Created with love by justemonn.
+# This playlist is free to use, you can use it for personal use only (do not rebroadcast or sell the playlist).
+# This playlist has passed the Firewall security test in the local network and WAF with rating 85.3 from 100.
+# Created with love by justemonn.
 
 
-## THIS PLAYLIST WILL EXPIRED 48 HOURS AFTER SIGNED.
-## Signed by da0be34d-2f3e-4487-aa52-6cc4a6390c26.streamized.net
-## Signed at 2025-11-01T14:18:32Z UTC.
-
-
-## LOCAL SECTION
+# LOCAL SECTION
 
 
 #EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/indosiar.png",INDOSIAR
-https://tokenized-ottbridge-prod.streamized.net/live/eds/INDOSIAR-HD/hls/INDOSIAR-HD.m3u8?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=95112911f1f4ff85ea7796415fc19e1fb71280fcdd5a2776f5b25b5196496423
+https://tokenized-ottbridge-prod.streamized.net/live/eds/INDOSIAR-HD/hls/INDOSIAR-HD.m3u8
 
 
 
@@ -25,7 +20,7 @@ http://103.66.62.83:8000/play/a069/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TransTV.IPTV" tvg-name="TransTV.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/transtv.png",TRANS TV
-https://tokenized-ottbridge-prod.streamized.net/live/eds/TransTVHD/hls/TransTVHD.m3u8?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=3389ebe64b49f32ab854975eb1d8378f0b5cec9380f0e56ecd952f682e5348be
+https://tokenized-ottbridge-prod.streamized.net/live/eds/TransTVHD/hls/TransTVHD.m3u8
 
 
 
@@ -34,9 +29,9 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/TransTVHD/hls/TransTVHD
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tokenized-licence.streamized.net/widevine/trv/cenc/?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=22fc7f374456bce8cfd15707664a6a72cd505cc6fefc7fb71feb6e3820c0f394
+#KODIPROP:inputstream.adaptive.license_key=https://tokenized-licence.streamized.net/widevine/trv/cenc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://tokenized-ottbridge-prod.streamized.net/live/eds/Trans7-HD/dash/Trans7-HD.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=aec43f7881abf1a8c6fe5fbbf1b66f4ea23a0ef40cd4fa7c2b5918c60dbcf2b2
+https://tokenized-ottbridge-prod.streamized.net/live/eds/Trans7-HD/dash/Trans7-HD.mpd
 
 
 
@@ -44,7 +39,7 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/Trans7-HD/dash/Trans7-H
 #EXTVLCOPT:http-origin=https://www.dens.tv
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 
-https://tokenized-ottbridge-prod.streamized.net/live/eds/MDTV-SD/hls/MDTV-SD.m3u8?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=e2f091f59cb580d251523df4a75ecb0a23bfc1599f7d98e27e8eee6fdc4e7580
+https://tokenized-ottbridge-prod.streamized.net/live/eds/MDTV-SD/hls/MDTV-SD.m3u8
 
 
 
@@ -52,14 +47,14 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/MDTV-SD/hls/MDTV-SD.m3u
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 #EXTINF:-1 tvg-id="SCTV.IPTV" tvg-name="SCTV.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/sctv.png",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tokenized-ottbridge-prod.streamized.net/live/eds/SCTVHD/dash/SCTVHD.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=b783a6788a563c3edac9353950f1fbbc58bfd182b933462b36d4cd564017849c
+https://tokenized-ottbridge-prod.streamized.net/live/eds/SCTVHD/dash/SCTVHD.mpd
 
 
 
 #EXTINF:-1 tvg-id="ANTV.IPTV" tvg-name="ANTV.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/antv.png",ANTV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://tokenized-ottbridge-prod.streamized.net/live/eds/ANTV/dash/ANTV.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=6709e44261d6b0eb0a213cb27d6d2e1fb5e5d3ac8c7d77b4124f22d4111d8349
+https://tokenized-ottbridge-prod.streamized.net/live/eds/ANTV/dash/ANTV.mpd
 
 
 
@@ -68,7 +63,7 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/ANTV/dash/ANTV.mpd?hdnt
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="RCTI.IPTV" tvg-name="RCTI.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/RCTI.png",RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://tokenized-ottbridge-prod.streamized.net/live/eds/RCTI-HD/dash/RCTI-HD.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=d2084c54bc1cffaa8358ecef06ce02a64f048206cc4b68ffb98d5cc8ea9be457
+https://tokenized-ottbridge-prod.streamized.net/live/eds/RCTI-HD/dash/RCTI-HD.mpd
 
 
 
@@ -77,7 +72,7 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/RCTI-HD/dash/RCTI-HD.mp
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="MNCTV.IPTV" tvg-name="MNCTV.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/mnctv.png",MNCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://tokenized-ottbridge-prod.streamized.net/live/eds/MNCTV-HD/dash/MNCTV-HD.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=28562dc33afecdbd0f3480a65d6afa5fcefb29df10c8a74937511b5442c51b33
+https://tokenized-ottbridge-prod.streamized.net/live/eds/MNCTV-HD/dash/MNCTV-HD.mpd
 
 
 
@@ -86,14 +81,14 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/MNCTV-HD/dash/MNCTV-HD.
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="GTV.IPTV" tvg-name="GTV.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/gtv.png",GTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://tokenized-ottbridge-prod.streamized.net/live/eds/GTV-HD/dash/GTV-HD.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=3a00519c12d2badc17a9d52f0fe6bba3e920c04645d4a22a3c8306085d90fa69
+https://tokenized-ottbridge-prod.streamized.net/live/eds/GTV-HD/dash/GTV-HD.mpd
 
 
 
 #EXTVLCOPT:http-referrer=http://dens.tv/
 #EXTINF:-1 tvg-id="Magna.IPTV" tvg-name="Magna.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/magna.png",Magna TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://tokenized-ottbridge-prod.streamized.net/live/eds/MagnaTV-SD/hls/MagnaTV-SD.m3u8?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=fd32cacf96133b53fdf9e75e9de5d264b3c1ae190a27e38458a0601c6bbd2a56
+https://tokenized-ottbridge-prod.streamized.net/live/eds/MagnaTV-SD/hls/MagnaTV-SD.m3u8
 
 
 
@@ -101,17 +96,17 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/MagnaTV-SD/hls/MagnaTV-
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 #EXTINF:-1 tvg-id="Moji.IPTV" tvg-name="Moji.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/moji.png",Moji
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tokenized-ottbridge-prod.streamized.net/live/eds/MOJIOChannel/dash/MOJIOChannel.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=259c651e80f91f80f1c4397e576a1ea6b1242112c5fc87e4c8582a3f27af4296
+https://tokenized-ottbridge-prod.streamized.net/live/eds/MOJIOChannel/dash/MOJIOChannel.mpd
 
 
 #EXTINF:-1 tvg-id="Moji.IPTV" tvg-name="Moji.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/moji.png",Moji Digital
 #EXTVLCOPT:http-user-agent=OTT Player/1.7.3.3 (Linux;Android 13; fdy8df) ExoPlayerLib/2.15.1
-https://tokenized-ottbridge-prod.streamized.net/live/eds/MOJIDigital/hls/MOJIDigital.m3u8?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=5cd92065c4efed31518ddd05517259e0549ad07cd177b22060c9dca4c8ba6f67
+https://tokenized-ottbridge-prod.streamized.net/live/eds/MOJIDigital/hls/MOJIDigital.m3u8
 
 
 
 #EXTINF:-1 tvg-id="RTV.IPTV" tvg-name="RTV.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/rtv.png",RTV
-https://tokenized-ottbridge-prod.streamized.net/live/eds/RTVHD/hls/RTVHD.m3u8?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=a8697ce62471faad00b4cad19c95dfb36fc816263ed8ee4482e50c86566012d0
+https://tokenized-ottbridge-prod.streamized.net/live/eds/RTVHD/hls/RTVHD.m3u8
 
 
 
@@ -120,20 +115,20 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/RTVHD/hls/RTVHD.m3u8?hd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://tokenized-ottbridge-prod.streamized.net/live/eds/MentariTV/dash/MentariTV.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=700140c14f4eacf814899c4f23c269fff41dec42efcfbaeefe20386a8ce28b3a
+https://tokenized-ottbridge-prod.streamized.net/live/eds/MentariTV/dash/MentariTV.mpd
 
 
 #EXTINF:-1 tvg-id="TVRI.IPTV" tvg-name="TVRI.IPTV" group-title="Lokal" tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvri.png",TVRI Nasional
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://tokenized-ottbridge-prod.streamized.net/live/eds/TVRINasional/hls/TVRINasional.m3u8?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=c86c974bfef3f3e8c34e4d205cdd2bda2ea3026946a7be458925c7a775820bbe
+https://tokenized-ottbridge-prod.streamized.net/live/eds/TVRINasional/hls/TVRINasional.m3u8
 
 
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/vtv.png?raw=true", VTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
-https://tokenized-ottbridge-prod.streamized.net/live/eds/VTV/hls/VTV.m3u8?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=c3edac8d70831a8f4eca2c866eb7da44d97c1d14cc8933cf181ef7fa10559a33
+https://tokenized-ottbridge-prod.streamized.net/live/eds/VTV/hls/VTV.m3u8
 
 
 
@@ -146,26 +141,26 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/VTV/hls/VTV.m3u8?hdntl=
 
 #EXTINF:-1 tvg-id="CNNIndonesia.IPTV" tvg-name="CNNIndonesia.IPTV" group-title="News" tvg-logo="https://iptvsystem.my.id/img/cnnindonesia.png",CNN Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://tokenized-ottbridge-prod.streamized.net/live/eds/CNNID/hls/CNNID.m3u8?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=6cadca7e8f59e3f2340e6846e0d2dbe232586a25b406fe596c89d48ae30fd9fd
+https://tokenized-ottbridge-prod.streamized.net/live/eds/CNNID/hls/CNNID.m3u8
 
 
 #EXTINF:-1 tvg-id="CNBCIndonesia.IPTV" tvg-name="CNBCIndonesia.IPTV" group-title="News" tvg-logo="https://iptvsystem.my.id/img/cnbcindonesia.png",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://tokenized-ottbridge-prod.streamized.net/live/eds/CNBCID/hls/CNBCID.m3u8?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=d02fdb043d98daa3ccc24c6bb62f5cd446bd7a647f7b5fdad92da7e5851d79fb
+https://tokenized-ottbridge-prod.streamized.net/live/eds/CNBCID/hls/CNBCID.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
 #EXTINF:-1 tvg-id="KompasTv.IPTV" tvg-name="Kompastv.IPTV" group-title="News" tvg-logo="https://iptvsystem.my.id/img/kompastv.png",Kompas TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tokenized-ottbridge-prod.streamized.net/live/eds/KOMPASTVHD/dash/KOMPASTVHD.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=fcda6db84f51c5dbeee195d5b10b7701d816bc2e80845af23a1f90658700b3c9
+https://tokenized-ottbridge-prod.streamized.net/live/eds/KOMPASTVHD/dash/KOMPASTVHD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="TVOne.IPTV" tvg-name="TVOne.IPTV" group-title="News" tvg-logo="https://iptvsystem.my.id/img/tvone.png",TVOne
-https://tokenized-ottbridge-prod.streamized.net/live/eds/TvOne/dash/TvOne.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=fd1bbc6afbed3b6c0d8184a48c99ead023ae339bcc45f6b32eb782cc497df06b
+https://tokenized-ottbridge-prod.streamized.net/live/eds/TvOne/dash/TvOne.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -173,35 +168,35 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/TvOne/dash/TvOne.mpd?hd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="INews.IPTV" tvg-name="INews.IPTV" group-title="News" tvg-logo="https://iptvsystem.my.id/img/inews.png",INews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://tokenized-ottbridge-prod.streamized.net/live/eds/INewsHD/dash/INewsHD.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=02dc1b1a708c9e28b3b21e0a52baa2a6db981c64a30f573f80ea5eee2a364620
+https://tokenized-ottbridge-prod.streamized.net/live/eds/INewsHD/dash/INewsHD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="MetroTV.IPTV" tvg-name="MetroTV.IPTV" group-title="News" tvg-logo="https://iptvsystem.my.id/img/metrotv.png",METRO TV
-https://tokenized-ottbridge-prod.streamized.net/live/eds/MetroTVHD/dash/MetroTVHD.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=38a8dc44186442bf38bb57747c3ae7bb7c33662b1b864980d394c7df55e50098
+https://tokenized-ottbridge-prod.streamized.net/live/eds/MetroTVHD/dash/MetroTVHD.mpd
 
 
 #EXTINF:-1 tvg-id="Euronews.id" tvg-name="Euronews" tvg-logo="https://cdn.streamo.cfd/live/images/euronews.png" group-title="News", Euronews
-https://tokenized-ottbridge-prod.streamized.net/live/eds/EuroNews/hls/EuroNews.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=155fb3c4e1ab4d6391c02fd88a068da0b05c1fd49dddbea94dc96dacb5f04d5e
+https://tokenized-ottbridge-prod.streamized.net/live/eds/EuroNews/hls/EuroNews.mpd
 
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" group-title="News" tvg-logo="https://iptvsystem.my.id/img/cna.png",Channel News Asia
-https://tokenized-ottbridge-prod.streamized.net/live/eds/CNA-SD/hls/CNA-SD.m3u8?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=0f3ad2315d95d4491fe8b07961615eabd719160c98f94627cb1b70d1cfe946e8
+https://tokenized-ottbridge-prod.streamized.net/live/eds/CNA-SD/hls/CNA-SD.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a1feb27e16048a59f39246a1321ea7e:979f770ca36fae07e287257bfa56bc4c
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="CNNInternational" tvg-name="CNNInternational" group-title="News" tvg-logo="https://iptvsystem.my.id/img/cnninternational.png",CNN International
-https://tokenized-ottbridge-prod.streamized.net/live/eds/CNNIntHD/dash/CNNIntHD.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=ce94d276eca7e37cc1cc1cd9af77c6f7075cc9beaf88cdfd2df2e91a4248f9cc
+https://tokenized-ottbridge-prod.streamized.net/live/eds/CNNIntHD/dash/CNNIntHD.mpd
 
 
 #EXTINF:-1 tvg-id="CNNInternational" tvg-name="CNNInternational" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png",CNN USA
-https://tokenized-ottbridge-prod.streamized.net/live/eds/CNNUSA/hls/CNNUSA.m3u8?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=cb4d2de3acee6e03403fbba0a1bdc68c55f51e213509b70f1c9cf42829e85173
+https://tokenized-ottbridge-prod.streamized.net/live/eds/CNNUSA/hls/CNNUSA.m3u8
 
 
 
@@ -217,7 +212,7 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/CNNUSA/hls/CNNUSA.m3u8?
 #KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
 #EXTINF:-1 tvg-id="Aniplus" tvg-name="Aniplus" group-title="Entertainment" tvg-logo="https://x.streamized.net/live/images/aniplus.png",Aniplus
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://tokenized-ottbridge-prod.streamized.net/live/eds/AniplusSD/dash/AniplusSD.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=526d0706a4c6073cb926a4a3d0a8bd495e601c9cfa39fcd773990d0bbe1e4e86
+https://tokenized-ottbridge-prod.streamized.net/live/eds/AniplusSD/dash/AniplusSD.mpd
 
 
 
@@ -225,14 +220,14 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/AniplusSD/dash/AniplusS
 #KODIPROP:inputstream.adaptive.license_key=b7b00124894d4f1f8b91fba79160b896:bb236ab2b198c2ffd722817bfa74cd08
 #EXTINF:-1 tvg-id="AXNHD" tvg-name="AXN" group-title="Entertainment" tvg-logo="https://iptvsystem.my.id/img/axn.png",AXN
 #EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tokenized-ottbridge-prod.streamized.net/live/eds/AXNHD/dash/AXNHD.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=94c997a18e9b5ea0c2b098f63c928a4d3384a8192e6cdf73c03fc51a50c8f1f4
+https://tokenized-ottbridge-prod.streamized.net/live/eds/AXNHD/dash/AXNHD.mpd
 
 
 #EXTINF:-1 tvg-id="HITS" tvg-name="HITS" group-title="Entertainment" tvg-logo="https://iptvsystem.my.id/img/hits2.png",HITS
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a 
-https://tokenized-ottbridge-prod.streamized.net/live/eds/HitsHD/dash/HitsHD.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=53348bf48c79b59600a96f9b3f4ca2e55d5d163b6972bee2db94eb8562e4e773
+https://tokenized-ottbridge-prod.streamized.net/live/eds/HitsHD/dash/HitsHD.mpd
 
 
 #EXTINF:-1 tvg-id="HITSNow.id" tvg-name="HITS NOW" tvg-logo="https://cdn.streamo.web.id/live/images/HITSNOW.png" group-title="Entertainment", HITS Now
@@ -247,7 +242,7 @@ https://firstmedcdn-prod.streamized.net/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="ROCKEntertainment" tvg-name="ROCKEntertainment" group-title="Entertainment" tvg-logo="https://iptvsystem.my.id/img/rockentertainment.png",Rock Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://tokenized-ottbridge-prod.streamized.net/live/eds/RockEntHD/dash/RockEntHD.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=a5f21a07a6c1e0eecaa6375d06eb768121f8e26501d3b579f7dd7e4744740820
+https://tokenized-ottbridge-prod.streamized.net/live/eds/RockEntHD/dash/RockEntHD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -255,14 +250,14 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/RockEntHD/dash/RockEntH
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTINF:-1 tvg-id="ROCKAction" tvg-name="ROCKAction" group-title="Movies" tvg-logo="https://iptvsystem.my.id/img/rockaction.png",Rock Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://tokenized-ottbridge-prod.streamized.net/live/eds/RockAction/dash/RockAction.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=f13d652f717a0dac9638d948f57d30df010ec8db7f977a177f2a3d137291c93d
+https://tokenized-ottbridge-prod.streamized.net/live/eds/RockAction/dash/RockAction.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="ONE.id" tvg-name="ONE" tvg-logo="https://cdn.streamo.cfd/live/images/ONE.png" group-title="Entertainment", ONE
-https://tokenized-ottbridge-prod.streamized.net/live/eds/ONEHD/dash/ONEHD.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=ac232e237d80a3cbbb6fdcb9d2dd5701ea2aaf0d3c0a5319e0f0ed55c449767a
+https://tokenized-ottbridge-prod.streamized.net/live/eds/ONEHD/dash/ONEHD.mpd
 
 
 #EXTINF:-1 tvg-id="TvN" tvg-name="TvN" group-title="Entertainment" tvg-logo="https://iptvsystem.my.id/img/tvn.png",tvN
@@ -270,22 +265,22 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/ONEHD/dash/ONEHD.mpd?hd
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tokenized-licence.streamized.net/widevine/trv/cenc/?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=22fc7f374456bce8cfd15707664a6a72cd505cc6fefc7fb71feb6e3820c0f394
+#KODIPROP:inputstream.adaptive.license_key=https://tokenized-licence.streamized.net/widevine/trv/cenc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://tokenized-ottbridge-prod.streamized.net/live/eds/tvNHD/dash/tvNHD.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=43550d73f7e7c7f89434ba608d04cf1cec50209df8edd353963eb0ca9644b659
+https://tokenized-ottbridge-prod.streamized.net/live/eds/tvNHD/dash/tvNHD.mpd
 
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tokenized-licence.streamized.net/clearkey/1233/cenc/?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=879e9ae2daf31d839939b74869f2c3fbddf81e641cd3aeb0851bfde6bbca7d0f
+#KODIPROP:inputstream.adaptive.license_key=https://tokenized-licence.streamized.net/clearkey/1233/cenc/
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_hgtv.png" group-title="Entertainment",HGTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tokenized-ottbridge-prod.streamized.net/live/eds/HGTVHD/dash/HGTVHD.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=97bf96bc817686fe49796b4b56abd2fed15e442d8921beb6124a0406ddc20208
+https://tokenized-ottbridge-prod.streamized.net/live/eds/HGTVHD/dash/HGTVHD.mpd
 
 
 
 #EXTINF:-1 tvg-id="Kplus.id" tvg-name="Kplus.id" tvg-logo="https://mimipipi22.github.io/logo/entertainment/kplus.jpg" group-title="Entertainment",K-PLUS
-https://tokenized-ottbridge-prod.streamized.net/live/eds/KplusHD/dash/KplusHD.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=9443f6accb988d7590ca6cb3fd031babec220b04b8c6dbcc9c1f0d1967ba1e40
+https://tokenized-ottbridge-prod.streamized.net/live/eds/KplusHD/dash/KplusHD.mpd
 
 
 
@@ -297,7 +292,7 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/KplusHD/dash/KplusHD.mp
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c 
-https://tokenized-ottbridge-prod.streamized.net/live/eds/HitsMoviesHD/dash/HitsMoviesHD.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=0225b0441c5f2618bd0cfca08c30b466c076542778437c24580959d0f99aa942
+https://tokenized-ottbridge-prod.streamized.net/live/eds/HitsMoviesHD/dash/HitsMoviesHD.mpd
 
 
 
@@ -306,21 +301,21 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/HitsMoviesHD/dash/HitsM
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="IMC" tvg-name="IMC" group-title="Movies" tvg-logo="https://iptvsystem.my.id/img/imc.png",IMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://tokenized-ottbridge-prod.streamized.net/live/eds/IMC-HD/dash/IMC-HD.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=efa4209ae82b2e74fe157beb04257e073e1b78d25c04f20755edc80a0c050a10
+https://tokenized-ottbridge-prod.streamized.net/live/eds/IMC-HD/dash/IMC-HD.mpd
 
 
 
 #EXTVLCOPT:http-referrer=http://dens.tv/
 #EXTINF:-1 tvg-id="MyCinema" tvg-name="MyCinema" group-title="Movies" tvg-logo="https://iptvsystem.my.id/img/mycinema.png",My Cinema
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://tokenized-ottbridge-prod.streamized.net/live/eds/MyCinemaHD/hls/MyCinemaHD.m3u8?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=5d9c3a0b3142cb9e0b4c2d579249473033b45f197a6fb2ade9cf62ab6d91f973
+https://tokenized-ottbridge-prod.streamized.net/live/eds/MyCinemaHD/hls/MyCinemaHD.m3u8
 
 
 
 #EXTVLCOPT:http-referrer=http://dens.tv/
 #EXTINF:-1 tvg-id="MyCinemaAsia" tvg-name="MyCinemaAsia" group-title="Movies" tvg-logo="https://iptvsystem.my.id/img/mycinemaasia.png",My Cinema Asia
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://tokenized-ottbridge-prod.streamized.net/live/eds/MyCinemaAsia/hls/MyCinemaAsia.m3u8?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=11ec6629680e26b8c9eee16b5affdc2ec7a1aa04cb9bb386a3bad991d91078be
+https://tokenized-ottbridge-prod.streamized.net/live/eds/MyCinemaAsia/hls/MyCinemaAsia.m3u8
 
 
 
@@ -330,32 +325,41 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/MyCinemaAsia/hls/MyCine
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tokenized-licence.streamized.net/widevine/trv/cenc/?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=22fc7f374456bce8cfd15707664a6a72cd505cc6fefc7fb71feb6e3820c0f394
-https://tokenized-ottbridge-prod.streamized.net/live/eds/HBO-HD/dash/HBO-HD.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=977dae14de57e5ad20e14ce0e9a40142f7a6e5c7ab67e50c9ae2af0c96d96528
+#KODIPROP:inputstream.adaptive.license_key=https://tokenized-licence.streamized.net/widevine/trv/cenc/
+https://tokenized-ottbridge-prod.streamized.net/live/eds/HBO-HD/dash/HBO-HD.mpd
 
 
 
 #EXTINF:-1 tvg-id="HBOHits1" tvg-name="HBOHits1" group-title="Movies" tvg-logo="https://iptvsystem.my.id/img/hbohits.png",HBO Hits
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tokenized-licence.streamized.net/clearkey/1247/cenc/?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=f17e7b6bc2b22b1dad245ae268e22be5b1cde0a0157ce1bced9adacec31df4ac&enc=false
-https://tokenized-ottbridge-prod.streamized.net/live/eds/HBOHITS/dash/HBOHITS.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=10a620f34af6e2a102acce565a82b812903e34fc5ffbcd1304204ca1e76d31a2
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:http-user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tokenized-licence.streamized.net/widevine/trv/cenc/
+https://tokenized-ottbridge-prod.streamized.net/live/eds/HBOHITS/dash/HBOHITS.mpd
 
 
 
 #EXTINF:-1 tvg-id="HBOSignature1" tvg-name="HBOSignature1" group-title="Movies" tvg-logo="https://iptvsystem.my.id/img/hbosig.png",HBO Signature
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tokenized-licence.streamized.net/clearkey/1251/cenc/?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=ac6bb958efd1ccb4609f56a203e8f70ca56ff37a8c9db0239a710e6b2002656b&enc=false
-https://tokenized-ottbridge-prod.streamized.net/live/eds/HBOSignature/dash/HBOSignature.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=a603262773ca905ff7bbdd3c4e0b77f1ddaac4fd4d342436f52bd2c713d6bfe1
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:http-user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tokenized-licence.streamized.net/widevine/trv/cenc/
+https://tokenized-ottbridge-prod.streamized.net/live/eds/HBOSignature/dash/HBOSignature.mpd
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tokenized-licence.streamized.net/clearkey/1250/cenc/?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=59b6dcb6e5d5811b4ac44203adbd25be60be84f4aa5b9bf58cbb5fc344035274&enc=false
 #EXTINF:-1 tvg-id="HBOFamily1" tvg-name="HBOFamily1" group-title="Movies" tvg-logo="https://iptvsystem.my.id/img/hbofamily.png",HBO Family
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tokenized-ottbridge-prod.streamized.net/live/eds/HBOFamilyHD/dash/HBOFamilyHD.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=11c1a6ce224dcb564c44e24bae290f89070b7fa9b8c103f69633cb7771c52d07
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:http-user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tokenized-licence.streamized.net/widevine/trv/cenc/
+https://tokenized-ottbridge-prod.streamized.net/live/eds/HBOFamily/dash/HBOFamily.mpd
 
 
 
@@ -364,21 +368,21 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/HBOFamilyHD/dash/HBOFam
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill.hk" group-title="Movies" tvg-logo="https://iptvsystem.my.id/img/thrill.png",Thrill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://tokenized-ottbridge-prod.streamized.net/live/eds/thrill/dash/thrill.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=43e3f2030ce6392fc742338ecf16ebd09b37f0104c543267c0ce5dffcbab4056
+https://tokenized-ottbridge-prod.streamized.net/live/eds/thrill/dash/thrill.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="TvNMovies" tvg-name="TvNMovies" group-title="Movies" tvg-logo="https://iptvsystem.my.id/img/tvnmovies.png",TvN Movies
-https://tokenized-ottbridge-prod.streamized.net/live/eds/TvNMoviesHD/dash/TvNMoviesHD.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=6e055b0e4036be4ec63b44378e5a58ccc365b282bb910b3af3053b8a1f89feb5
+https://tokenized-ottbridge-prod.streamized.net/live/eds/TvNMoviesHD/dash/TvNMoviesHD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZui9S2_9rgixQEraSnsGKCdqPMha_Nu6eyA&s" group-title="Movies",GALAXY
-https://tokenized-ottbridge-prod.streamized.net/live/eds/GALAXYHD/dash/GALAXYHD.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=507ead12561aaa6c6a32ff02c98e64bf0169f24bbc1b5a21e86dfb3e09c6c3d5
+https://tokenized-ottbridge-prod.streamized.net/live/eds/GALAXYHD/dash/GALAXYHD.mpd
 
 
 
@@ -391,7 +395,7 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/GALAXYHD/dash/GALAXYHD.
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" group-title="Kids" tvg-logo="https://iptvsystem.my.id/img/dreamworks.png",Dreamworks
-https://tokenized-ottbridge-prod.streamized.net/live/eds/DreamworksHD/dash/DreamworksHD.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=e0fd98b0067577ce528eb0b48184308da3ffa15c4ec02d4f439d2b8717ba8965
+https://tokenized-ottbridge-prod.streamized.net/live/eds/DreamworksHD/dash/DreamworksHD.mpd
 
 
 
@@ -400,7 +404,7 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/DreamworksHD/dash/Dream
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" group-title="Kids" tvg-logo="https://iptvsystem.my.id/img/nickelodeon.png",Nickelodeon
-https://tokenized-ottbridge-prod.streamized.net/live/eds/NicklodeonHD/dash/NicklodeonHD.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=44abf2a9a69cf96bbeb86771f3c8dc667a08279e61b4024434b6320a68d36d50
+https://tokenized-ottbridge-prod.streamized.net/live/eds/NicklodeonHD/dash/NicklodeonHD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -408,7 +412,7 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/NicklodeonHD/dash/Nickl
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="NickJr" tvg-name="NickJr" group-title="Kids" tvg-logo="https://iptvsystem.my.id/img/nickjr.png",Nicklodeon Jr.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://tokenized-ottbridge-prod.streamized.net/live/eds/NickJr/dash/NickJr.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=0a329b371eb6d55fcb4bff613b0bdb27780bf8ee22e5a104634cc4947a72ab30
+https://tokenized-ottbridge-prod.streamized.net/live/eds/NickJr/dash/NickJr.mpd
 
 
 
@@ -417,14 +421,14 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/NickJr/dash/NickJr.mpd?
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tokenized-licence.streamized.net/widevine/trv/cenc/?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=22fc7f374456bce8cfd15707664a6a72cd505cc6fefc7fb71feb6e3820c0f394
+#KODIPROP:inputstream.adaptive.license_key=https://tokenized-licence.streamized.net/widevine/trv/cenc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://tokenized-ottbridge-prod.streamized.net/live/eds/CartoonNetworkHD/dash/CartoonNetworkHD.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=858e30ecd8ee68c8130da4f6275d06c793957903394cb14f2ff95b47cfd82889
+https://tokenized-ottbridge-prod.streamized.net/live/eds/CartoonNetworkHD/dash/CartoonNetworkHD.mpd
 
 
 
 #EXTINF:-1 tvg-id="DeiKids" tvg-name="DeiKids" group-title="Kids" tvg-logo="https://youtv.live/data/channel/dei-kids-tv_20230112175023.jpeg",Dei Kids
-https://tokenized-ottbridge-prod.streamized.net/live/eds/DeiKids/hls/DeiKids.m3u8?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=c183e95568a4fd401d6b3fdbf9c964003525d68b4edcefb131959b54af0f53f2
+https://tokenized-ottbridge-prod.streamized.net/live/eds/DeiKids/hls/DeiKids.m3u8
 
 
 
@@ -433,7 +437,7 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/DeiKids/hls/DeiKids.m3u
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_46.png" group-title="Kids" tvg-id="KidsTV.id" tvg-name="KidsTV.id", KIDS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://tokenized-ottbridge-prod.streamized.net/live/eds/KidsTV/hls/KidsTV.m3u8?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=ad4ba7dd28ae715012af45293636dffedf7aed2e130eab77da29a81639814c1c
+https://tokenized-ottbridge-prod.streamized.net/live/eds/KidsTV/hls/KidsTV.m3u8
 
 
 
@@ -446,7 +450,7 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/KidsTV/hls/KidsTV.m3u8?
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvri.png" group-title="Sports",TVRI Sport
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://tokenized-ottbridge-prod.streamized.net/live/eds/TVRISports/hls/TVRISports.m3u8?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=e1d172cd145332a1e23376db7feff29d106fa092d9322b883b939cb817154c19
+https://tokenized-ottbridge-prod.streamized.net/live/eds/TVRISports/hls/TVRISports.m3u8
 
 
 
@@ -456,7 +460,7 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/TVRISports/hls/TVRISpor
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTINF:-1 tvg-id="beINSports" tvg-name="beINSports" group-title="Sports" tvg-logo="https://iptvsystem.my.id/img/beinsports.png",beIN Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://tokenized-ottbridge-prod.streamized.net/live/eds/BeinSports/dash/BeinSports.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=aafb165e0656c15c0743f20a20dcc55bd861bac11c08a39d8b0c0423d44bbfbf
+https://tokenized-ottbridge-prod.streamized.net/live/eds/BeinSports/dash/BeinSports.mpd
 
 
 
@@ -466,7 +470,7 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/BeinSports/dash/BeinSpo
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTINF:-1 tvg-id="beINSports2" tvg-name="beINSports2" group-title="Sports" tvg-logo="https://iptvsystem.my.id/img/beinsports.png",beIN Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://tokenized-ottbridge-prod.streamized.net/live/eds/BeinSports2/dash/BeinSports2.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=1556db76666698f39a83f4cc56a7d3245047c2a1774804b116fd35ee6dd20ec0
+https://tokenized-ottbridge-prod.streamized.net/live/eds/BeinSports2/dash/BeinSports2.mpd
 
 
 
@@ -476,7 +480,7 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/BeinSports2/dash/BeinSp
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTINF:-1 tvg-id="beINSports3" tvg-name="beINSports3" group-title="Sports" tvg-logo="https://iptvsystem.my.id/img/beinsports.png",beIN Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://tokenized-ottbridge-prod.streamized.net/live/eds/BeinSports3/dash/BeinSports3.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=94f294dd8807a870e5a94819f8500ede347fa50c8154fa36e2ed82dff36d6085
+https://tokenized-ottbridge-prod.streamized.net/live/eds/BeinSports3/dash/BeinSports3.mpd
 
 
 
@@ -486,7 +490,7 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/BeinSports3/dash/BeinSp
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTINF:-1 tvg-id="beINSports4" tvg-name="beINSports4" group-title="Sports" tvg-logo="https://iptvsystem.my.id/img/beinsports.png",beIN Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://tokenized-ottbridge-prod.streamized.net/live/eds/BeinSports4/dash/BeinSports4.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=75b31d2a2a7061345289fd7b9c31b75cf0d2107df4cc48d5f29ab74797c13d79
+https://tokenized-ottbridge-prod.streamized.net/live/eds/BeinSports4/dash/BeinSports4.mpd
 
 
 
@@ -496,7 +500,7 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/BeinSports4/dash/BeinSp
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF:-1 tvg-id="beINSports5" tvg-name="beINSports5" group-title="Sports" tvg-logo="https://iptvsystem.my.id/img/beinsports.png",beIN Sports 5
-https://tokenized-ottbridge-prod.streamized.net/live/eds/BeinSports5/dash/BeinSports5.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=5fddf54bcce4b7747feda388a5c5eeb92ea7e02e8932e8d056ddde52cc28cdce
+https://tokenized-ottbridge-prod.streamized.net/live/eds/BeinSports5/dash/BeinSports5.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -504,7 +508,7 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/BeinSports5/dash/BeinSp
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTINF:-1 tvg-id="Sportstars" tvg-name="Sportstars" group-title="Sports" tvg-logo="https://iptvsystem.my.id/img/sportstars.png",Sport Stars
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://tokenized-ottbridge-prod.streamized.net/live/eds/SportStars/dash/SportStars.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=fa2538934735bf7705a4cf498a3691d06d5f704279c659bd97256fd15e0b5f71
+https://tokenized-ottbridge-prod.streamized.net/live/eds/SportStars/dash/SportStars.mpd
 
 
 
@@ -513,7 +517,7 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/SportStars/dash/SportSt
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTINF:-1 tvg-id="Sportstars2" tvg-name="Sportstars2" group-title="Sports" tvg-logo="https://iptvsystem.my.id/img/sportstars.png",Sport Stars 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://tokenized-ottbridge-prod.streamized.net/live/eds/SportStars2/dash/SportStars2.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=84f72527038f761e5e1a6cb33f8e3cd8387f2577e3eb47eaa22c69ad70b0889a
+https://tokenized-ottbridge-prod.streamized.net/live/eds/SportStars2/dash/SportStars2.mpd
 
 
 
@@ -522,7 +526,7 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/SportStars2/dash/SportS
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTINF:-1 tvg-id="Sportstars3" tvg-name="Sportstars3" group-title="Sports" tvg-logo="https://iptvsystem.my.id/img/sportstars.png",Sport Stars 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://tokenized-ottbridge-prod.streamized.net/live/eds/SportStars3/dash/SportStars3.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=e6dbb89196ed54dfa1348797abd00487241a1f87031ef57b6a5a4c7e4bf3ffa4
+https://tokenized-ottbridge-prod.streamized.net/live/eds/SportStars3/dash/SportStars3.mpd
 
 
 
@@ -531,7 +535,7 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/SportStars3/dash/SportS
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF:-1 tvg-id="Sportstars4" tvg-name="Sportstars4" group-title="Sports" tvg-logo="https://iptvsystem.my.id/img/sportstars.png",Sport Stars 4
-https://tokenized-ottbridge-prod.streamized.net/live/eds/SportStars4/dash/SportStars4.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=5cd96852045f2cc8d371def64bd7e7ecef51b1c4f21f63085d7954b064496fb9
+https://tokenized-ottbridge-prod.streamized.net/live/eds/SportStars4/dash/SportStars4.mpd
 
 
 
@@ -540,7 +544,7 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/SportStars4/dash/SportS
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTINF:-1 tvg-id="SoccerChannel.IPTV" tvg-name="SoccerChannel.IPTV" group-title="Sports" tvg-logo="https://iptvsystem.my.id/img/soccer.png",Soccer Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://tokenized-ottbridge-prod.streamized.net/live/eds/SoccerChannel/dash/SoccerChannel.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=ebe89328e777d67e0c8599405efef8c528265df2106ee605a4ae26ca08cd2a10
+https://tokenized-ottbridge-prod.streamized.net/live/eds/SoccerChannel/dash/SoccerChannel.mpd
 
 
 
@@ -549,7 +553,7 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/SoccerChannel/dash/Socc
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="SPOTV1" tvg-name="SPOTV1" group-title="Sports" tvg-logo="https://iptvsystem.my.id/img/spotv.png",SPOTV 1
-https://tokenized-ottbridge-prod.streamized.net/live/eds/SPOTV/dash/SPOTV.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=52e24910e76b0269f637bcd56c7fe1459bb4ae4034c070d17835c5d2b83669b8
+https://tokenized-ottbridge-prod.streamized.net/live/eds/SPOTV/dash/SPOTV.mpd
 
 
 
@@ -558,12 +562,12 @@ https://tokenized-ottbridge-prod.streamized.net/live/eds/SPOTV/dash/SPOTV.mpd?hd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" group-title="Sports" tvg-logo="https://iptvsystem.my.id/img/spotv.png",SPOTV 2
-https://tokenized-ottbridge-prod.streamized.net/live/eds/SPOTV2/dash/SPOTV2.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=50f780807a2afa1e0d12e55bfc22d652d6f124c0b0a51169be5b404703f18944
+https://tokenized-ottbridge-prod.streamized.net/live/eds/SPOTV2/dash/SPOTV2.mpd
 
 
 
 #EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/nbatv.jpg?raw=true" group-title="Sports",NBA League Pass
-https://tokenized-ottbridge-prod.streamized.net/live/eds/NBALeaguePass/hls/NBALeaguePass.m3u8?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=a908f58fa8e5c1aba179d35d2ade31e6f898f7eb8e16feb5e91a00691394947d
+https://tokenized-ottbridge-prod.streamized.net/live/eds/NBALeaguePass/hls/NBALeaguePass.m3u8
 
 
 
@@ -620,21 +624,21 @@ https://a202aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/irplqtcjlv/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
-https://tokenized-ottbridge-prod.streamized.net/live/eds/FOXSportsHD/dash/FOXSportsHD.mpd?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=83176bc3c24fc53043a0b391ddd6a4dc1420fd66f9852bb3b8d7cb6abe4c997c
+https://tokenized-ottbridge-prod.streamized.net/live/eds/FOXSportsHD/dash/FOXSportsHD.mpd
 
 
 #EXTINF:-1 tvg-logo="https://usedoor.jp/wp-content/uploads/2018/02/dazn-otoku-keiyaku.jpg" group-title="Sports",DAZN
-https://tokenized-ottbridge-prod.streamized.net/live/eds/DAZN1/hls/DAZN1.m3u8?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=a05950ddad139ec41263141b37a346e6ca140cba5b153d5c342fb5c2f631a23c
+https://tokenized-ottbridge-prod.streamized.net/live/eds/DAZN1/hls/DAZN1.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://usedoor.jp/wp-content/uploads/2018/02/dazn-otoku-keiyaku.jpg" group-title="Sports",DAZN 2
-https://tokenized-ottbridge-prod.streamized.net/live/eds/DAZN2-HD/hls/DAZN2-HD.m3u8?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=5f51cbb114ffbb1b26e51ad504cb98c42ea2799689de894cdfddf9a865dd5d96
+https://tokenized-ottbridge-prod.streamized.net/live/eds/DAZN2-HD/hls/DAZN2-HD.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://usedoor.jp/wp-content/uploads/2018/02/dazn-otoku-keiyaku.jpg" group-title="Sports",DAZN 3
-https://tokenized-ottbridge-prod.streamized.net/live/eds/DAZN3HD/hls/DAZN3HD.m3u8?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=f3184e915c6338692cf8b9dd8bf48622d562ea4af085a0e907be00153af1ac9c
+https://tokenized-ottbridge-prod.streamized.net/live/eds/DAZN3HD/hls/DAZN3HD.m3u8
 
 
 
@@ -660,9 +664,13 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/ind
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 #EXTINF:-1 group-title="Event" tvg-logo="https://www.visionplus.id/images/repository/817/138817-LOGO-m.png",R+ LIVE
-https://tokenized-ottbridge-prod.streamized.net/live/eds/RCTIPlus/hls/RCTIPlus.m3u8?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=75f4efbfafb0baddfb249c0ec705c42ebc1b79fc3030871a5bd564ff17f5d817
+https://tokenized-ottbridge-prod.streamized.net/live/eds/RCTIPlus/hls/RCTIPlus.m3u8
 
 
 
 #EXTINF:-1 group-title="Event" tvg-logo="https://cdn.streamo.cfd/images/w/STREAMO..png",STREAMO LIVE
-https://tokenized-ottbridge-prod.streamized.net/live/eds/STREAMOLive/hls/STREAMOLive.m3u8?hdntl=exp=1762179512~id=allUsers~data=hdntl~hmac=2107046bc7b3cf87393f981d18c69c6b04566b6e830f50cf05cad0b7604b718b
+https://tokenized-ottbridge-prod.streamized.net/live/eds/STREAMOLive/hls/STREAMOLive.m3u8
+
+
+
+#EXTM3U billed-msg="MOHON UNTUK TIDAK MENAYANGKAN ULANG SIARAN TV!!!"
